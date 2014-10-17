@@ -1,0 +1,28 @@
+{
+  "name": "greater-than",
+  "version": "0.0.0",
+  "description": "Whether given value or value within an object property is greater than X.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilmoore/greater-than"
+  },
+  "keywords": [
+    "greater",
+    "greater-than",
+    "compare"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^2.3.6",
+    "faucet": "0.0.1",
+    "tape": "^3.0.0"
+  },
+  "dependencies": {
+    "debug": "^2.1.0"
+  }
+}
