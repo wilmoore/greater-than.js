@@ -1,6 +1,6 @@
 {
   "name": "greater-than",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Whether given value or value within an object property is greater than X.",
   "main": "index.js",
   "scripts": {
