@@ -1,6 +1,6 @@
 # greater-than
 
-[![Build Status](http://img.shields.io/travis/wilmoore/greater-than.js.svg)](https://travis-ci.org/wilmoore/greater-than.js) [![NPM version](http://img.shields.io/npm/v/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![NPM downloads](http://img.shields.io/npm/dm/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![LICENSE](http://img.shields.io/npm/l/greater-than.svg)](license)
+[![Build Status](http://img.shields.io/travis/wilmoore/greater-than.js.svg)](https://travis-ci.org/wilmoore/greater-than.js) [![NPM version](http://img.shields.io/npm/v/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![NPM downloads](http://img.shields.io/npm/dm/greater-than.svg)](https://www.npmjs.org/package/greater-than) [![LICENSE](http://img.shields.io/npm/l/greater-than.js.svg)](license)
 
 > Whether given value or value within an object property is greater than X.
 
